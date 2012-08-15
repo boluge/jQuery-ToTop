@@ -1,6 +1,6 @@
 Voici les différents paramètre du plugin :
 
-text : le texte ou l'image du lien,
+<b>text :</b> le texte ou l'image du lien,</br>
 id : l'id du lien pour pouvoir le personaliser en css,
 speedfade : la vitesse d'affichage et de masquage du lien,
 scroll : la position de scroll à laquelle s'affiche le lien, 

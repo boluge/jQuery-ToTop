@@ -12,10 +12,10 @@
 
 <p>Aucun style css n'est définie, que vous puissiez lui donner l'allure qui vous plaira.</p>
 
-<code>$(document).totop({
+	$(document).totop({
 		  text: 'Top',
 		  id: 'totop',
 		  speedfade:200,
 		  scroll:50,
 		  speedscroll:'fast'
-	});</code>
+	});

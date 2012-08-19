@@ -8,7 +8,9 @@
 <b>scroll :</b> la position de scroll à laquelle s'affiche le lien,<br/>
 <b>speedscroll :</b> la vitesse de scroll pour remonter en haute de page.<br/>
 
-<p>Le plugin fonctionne avec <b>jQuery</b>.</p>
+<p>Le plugin fonctionne avec <b><a href="">jQuery</a></b>.</p>
+
+<p>Aucun style css n'est définie, que vous puissiez lui donner l'allure qui vous plaira.</p>
 
 <code>$(document).totop({
 		  text: 'Top',

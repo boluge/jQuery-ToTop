@@ -1,4 +1,4 @@
-<h1>Plugin ToTop ajoute au page un bouton de retour en haut de page</h1>
+<h1>ToTop ajoute au page un bouton de retour en haut de page</h1>
 
 <h2>Voici les différents paramètre du plugin ToTop :</h2>
 
@@ -8,10 +8,12 @@
 <b>scroll :</b> la position de scroll à laquelle s'affiche le lien,<br/>
 <b>speedscroll :</b> la vitesse de scroll pour remonter en haute de page.<br/>
 
-	$(document).totop({
-		  text: 'top',
-		  id: 'top',
-		  speedfade:1000,
+<p>Le plugin fonctionne avec jQuery.</p>
+
+<code>$(document).totop({
+		  text: 'Top',
+		  id: 'totop',
+		  speedfade:200,
 		  scroll:50,
-		  speedscroll:1500
-	});
+		  speedscroll:'fast'
+	});</code>
